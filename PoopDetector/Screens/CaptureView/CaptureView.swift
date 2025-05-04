@@ -8,7 +8,7 @@
 import PhotosUI
 import SwiftUI
 
-/// Caputer view that shows capture screen
+/// View that shows Capture screen
 @MainActor
 struct CaptureView: View {
     @Environment(\.modelContext) var modelContext
